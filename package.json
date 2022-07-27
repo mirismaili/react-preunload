@@ -1,0 +1,29 @@
+{
+	"name": "react-preunload",
+	"version": "1.0.2",
+	"description": "Pre-unload hook for React",
+	"keywords": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mirismaili/react-preunload"
+	},
+	"license": "MIT",
+	"author": "S. Mahdi Mir-Ismaili <s.m.mirismaili@gmail.com>",
+	"type": "module",
+	"main": "src/main.js",
+	"files": [
+		"src"
+	],
+	"scripts": {
+		"start": "node src/main.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {},
+	"devDependencies": {},
+  "peerDependencies": {
+    "react": ">=16.13.1"
+  },
+	"engines": {
+		"node": ">=16"
+	}
+}
